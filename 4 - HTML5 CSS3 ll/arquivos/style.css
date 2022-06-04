@@ -1,0 +1,48 @@
+#banner {
+    width: 100%;
+}
+
+.main {
+    background: #CCCCCC;
+    padding: 30px;
+}
+
+.main-tytle {
+    padding-left: 20px;
+}
+
+p {
+    text-align: center;
+}
+
+#mission {
+    font-size: 20px;
+}
+
+em strong {
+    color: red;
+}
+
+.itens {
+    font-style: italic;
+}
+
+.benefits {
+    background: #FFFFFF;
+    padding: 20px;
+}
+
+.center-tytle {
+    text-align: center;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.imagebenefits {
+    width: 50%;
+}
